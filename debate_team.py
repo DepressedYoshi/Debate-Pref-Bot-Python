@@ -49,7 +49,7 @@ class DebateTeam:
         index = team.find("&")
         n2 = team[index+2:]
         return team[:2] + n2[:2]
-    
+    #!!!UNCOMMENT THE FOLLOWING IF POOL  SIZE IS SMALL 
     # def linkIsGood(self,driver, url):  
     #     try:
     #         # Open the URL
