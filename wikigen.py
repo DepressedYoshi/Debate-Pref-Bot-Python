@@ -15,8 +15,8 @@ from  debate_team import DebateTeam  # Import the DebateTeam class, adjust the i
 # driver.get('https://opencaselist.com/login')
 # username_elem = driver.find_element(By.ID, 'username')
 # password_elem = driver.find_element(By.ID, 'password')
-# username_elem.send_keys('YLi25@damien-hs.edu')
-# password_elem.send_keys('C?Qdu8pRYxRs*gv')
+# username_elem.send_keys('YOUR EMAIL')
+# password_elem.send_keys('YOUR PASSWORD TO TAB')
 # password_elem.send_keys(Keys.RETURN)
 # WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "_home_13sim_1")))  # Adjust as per the page after login
 
